@@ -1,0 +1,2296 @@
+[
+  {
+    "page_number": 1,
+    "metadata": {
+      "title": "THE GEOLOGY OF THE FE3 OPEN-CAST, SADIOLA, MALI: STRATIGRAPHY, STRUCTURE AND INTRUSIVE ROCKS",
+      "author": "Moshala Matabane",
+      "year": 2008,
+      "supervisor": "Prof. Kim A.A. Hein",
+      "institution": "University of the Witwatersrand, Johannesburg",
+      "location": "Johannesburg"
+    },
+    "geology": {
+      "region": "Sadiola, Mali",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 2,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 2008,
+      "supervisor": "",
+      "institution": "University of the Witwatersrand",
+      "location": "Johannesburg"
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 3,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "Prof. Kim Hein",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 4,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": "Sadiola goldfield, Mali"
+    },
+    "geology": {
+      "region": "Sadiola goldfield, Mali",
+      "formation": "",
+      "rock_types": [
+        "meta-sedimentary rocks",
+        "granodiorite"
+      ],
+      "minerals": [
+        "gold",
+        "chlorite",
+        "sericite",
+        "arsenopyrite"
+      ],
+      "structures": [
+        "slump folds",
+        "olistoliths",
+        "turbidite beds",
+        "fluid escape structures"
+      ],
+      "tectonic_setting": "seismically-active turbulent environment"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "primary hydrothermal and secondary placer",
+      "associated_structures": [
+        "breccia zones",
+        "quartz-arsenopyrite veins"
+      ],
+      "host_rocks": [
+        "lower slump facies",
+        "upper slump facies",
+        "siltstone-greywacke unit"
+      ],
+      "ore_minerals": [
+        "gold"
+      ],
+      "alteration": "hydrothermal chlorite-sericite alteration"
+    }
+  },
+  {
+    "page_number": 5,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 6,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 7,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Sadiola goldfield, Mali",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 8,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Mali",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [
+        "facies successions",
+        "intrusive bodies"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "gold",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 9,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 10,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": "Mali"
+    },
+    "geology": {
+      "region": "Kéniéba Inlier",
+      "formation": "",
+      "rock_types": [
+        "tholeiitic basalts",
+        "andesites",
+        "granitoids",
+        "volcanic sequences",
+        "sedimentary sequences",
+        "amphibolite",
+        "gneiss"
+      ],
+      "minerals": [],
+      "structures": [
+        "Senegalo-Malian graben",
+        "Senegalo-Mali Shear Zone"
+      ],
+      "tectonic_setting": "Eburnean Orogeny"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "Pb-Pb age",
+      "age_Ma": 2194,
+      "error_Ma": 6,
+      "rock_unit": "SAG basement",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 11,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Kéniéba Inlier",
+      "formation": "Mako Supergroup",
+      "rock_types": [
+        "tholeiitic pillowed basalt",
+        "calc-alkaline andesite",
+        "immature metasedimentary rocks",
+        "meta-volcaniclastic rocks",
+        "amphibolite",
+        "diorite",
+        "tonalite",
+        "carbonate",
+        "volcaniclastic",
+        "siliciclastic",
+        "turbiditic units",
+        "andesite lavas",
+        "rhyolitic pyroclastites",
+        "andesite",
+        "felsic lava",
+        "volcaniclastic units",
+        "chemical sediments",
+        "chert",
+        "manganiferous shale",
+        "metagreywacke",
+        "Birimian-type basin sediments",
+        "orogenic-type metasediments"
+      ],
+      "minerals": [
+        "tourmaline",
+        "gold"
+      ],
+      "structures": [
+        "Senegalo-Mali Shear Zone",
+        "skarn-type iron deposits"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "gold mineralisation",
+      "associated_structures": [
+        "tourmaline-rich quartz veins"
+      ],
+      "host_rocks": [
+        "Kofi Series"
+      ],
+      "ore_minerals": [
+        "gold"
+      ],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 12,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Kéniéba Inlier",
+      "formation": "Birimian sequences",
+      "rock_types": [
+        "granitoids",
+        "werhlite",
+        "pyroxenite",
+        "gabbro",
+        "diorite",
+        "tonalite",
+        "granite",
+        "monzogranite"
+      ],
+      "minerals": [
+        "biotite",
+        "staurolite",
+        "sillimanite",
+        "garnet"
+      ],
+      "structures": [
+        "strike-slip shear zones",
+        "Senegalo-Malian Shear Zone",
+        "Main Transcurrent Zone"
+      ],
+      "tectonic_setting": "Eburnean Orogeny"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "Rb-Sr whole rock",
+      "age_Ma": 2199.0,
+      "error_Ma": 68.0,
+      "rock_unit": "Badon-Kakadian batholith",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 13,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 1991,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "West Africa",
+      "formation": "Lower Birimian",
+      "rock_types": [
+        "clastic sediments",
+        "tholeiitic lavas",
+        "granite"
+      ],
+      "minerals": [
+        "gold",
+        "tourmaline"
+      ],
+      "structures": [
+        "sinistral strike-slip shear zones",
+        "thrust faults"
+      ],
+      "tectonic_setting": "extensional and compressional phases"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 50,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": "evidence of sinistral strike-slip faults in the oldest intrusions of the Kéniéba Inlier"
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "primary gold deposits",
+      "associated_structures": [
+        "extensional zones",
+        "strike-slip faults"
+      ],
+      "host_rocks": [
+        "Lower Birimian sequences"
+      ],
+      "ore_minerals": [
+        "gold"
+      ],
+      "alteration": "tourmalinised"
+    }
+  },
+  {
+    "page_number": 14,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Burkina Faso, Ghana, Mali, Ivory Coast, Guinea, Senegal",
+      "formation": "",
+      "rock_types": [
+        "volcanic rocks",
+        "plutonic rocks",
+        "conglomerate beds"
+      ],
+      "minerals": [
+        "gold",
+        "arsenopyrite",
+        "poly-metallic sulphides",
+        "native gold",
+        "quartz"
+      ],
+      "structures": [
+        "brecciated hydrothermal zones",
+        "NE-trending tectonic corridors"
+      ],
+      "tectonic_setting": "Eburnean Orogeny"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "mesothermal gold mineralisation",
+      "associated_structures": [
+        "discordant mesothermal mineralization"
+      ],
+      "host_rocks": [
+        "volcanic rocks",
+        "plutonic rocks",
+        "conglomerate beds"
+      ],
+      "ore_minerals": [
+        "gold",
+        "arsenopyrite",
+        "poly-metallic sulphides"
+      ],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 15,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "metasediments",
+        "volcaniclastic sequences",
+        "volcanoclastics",
+        "chemical sediments",
+        "detrital sediments",
+        "calc-alkaline volcanics",
+        "tholeiitic pillowed basalts",
+        "alkaline andesites",
+        "immature basalts",
+        "amphibolite gneiss"
+      ],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 16,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "West African craton",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 17,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Kéniéba Inlier",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 18,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [
+        "transcurrent fault",
+        "reverse fault",
+        "trace of stratification",
+        "trace of schistosity 1",
+        "trace of schistosity 2",
+        "planar fabric in the granites",
+        "stretching lineation",
+        "linear fabric in the granites"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 19,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [
+        "scour and fill",
+        "cross-bedding",
+        "turbidite sequences"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 20,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "siltstone",
+        "greywacke",
+        "mudstone",
+        "granodiorite"
+      ],
+      "minerals": [
+        "arsenopyrite",
+        "pyrite",
+        "gold",
+        "calcite"
+      ],
+      "structures": [
+        "breccia",
+        "cataclasite",
+        "turbidite sequences",
+        "slump folds",
+        "glide surfaces",
+        "chaotic folding",
+        "detached units"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "gold mineralisation",
+      "associated_structures": [],
+      "host_rocks": [
+        "breccia lodes",
+        "upper slump facies"
+      ],
+      "ore_minerals": [
+        "arsenopyrite",
+        "pyrite"
+      ],
+      "alteration": "contact metamorphic aureole"
+    }
+  },
+  {
+    "page_number": 21,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "siltstone",
+        "mudstone",
+        "greywacke",
+        "quartz",
+        "carbonate"
+      ],
+      "minerals": [
+        "quartz",
+        "chlorite",
+        "sericite",
+        "graphite",
+        "iron"
+      ],
+      "structures": [
+        "slump folds",
+        "glide surfaces",
+        "cross bedding",
+        "turbidite beds",
+        "cleavage"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 22,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "granodiorite",
+        "siltstone",
+        "greywacke"
+      ],
+      "minerals": [
+        "goethite",
+        "hematite",
+        "microcline",
+        "orthoclase",
+        "quartz",
+        "plagioclase",
+        "biotite",
+        "sericite",
+        "calcite"
+      ],
+      "structures": [
+        "brecciation",
+        "faults",
+        "fault breccias",
+        "cataclasite"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "gold",
+      "associated_structures": [
+        "brecciation",
+        "faults"
+      ],
+      "host_rocks": [
+        "granodiorite",
+        "siltstone",
+        "greywacke"
+      ],
+      "ore_minerals": [],
+      "alteration": "sericitic alteration, deuteric alteration"
+    }
+  },
+  {
+    "page_number": 23,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "quartzites",
+        "marble",
+        "greywacke",
+        "siltstone",
+        "breccias",
+        "granodiorite"
+      ],
+      "minerals": [
+        "quartz",
+        "calcite",
+        "microcline",
+        "plagioclase",
+        "biotite",
+        "sericite",
+        "orthoclase",
+        "arsenopyrite",
+        "scorodite"
+      ],
+      "structures": [
+        "stylolitic micro-textures",
+        "granoblastic quartz grains",
+        "quartz veins",
+        "sulphide-rich micro-veins"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "Primary hydrothermal mineralisation, Secondary placer gold mineralisation",
+      "associated_structures": [],
+      "host_rocks": [
+        "granodiorite",
+        "greywacke",
+        "marble"
+      ],
+      "ore_minerals": [
+        "arsenopyrite",
+        "gold"
+      ],
+      "alteration": "scorodite"
+    }
+  },
+  {
+    "page_number": 24,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "breccia",
+        "turbidite",
+        "granodiorite"
+      ],
+      "minerals": [
+        "gold",
+        "arsenopyrite",
+        "pyrrhotite",
+        "pyrite",
+        "iron oxide",
+        "calcite"
+      ],
+      "structures": [
+        "palaeochannels",
+        "joints",
+        "fractures",
+        "structural breccias"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "primary and secondary gold mineralisation",
+      "associated_structures": [
+        "breccia zones",
+        "lower slump facies",
+        "palaeochannels"
+      ],
+      "host_rocks": [
+        "turbidite sequences",
+        "granodiorite dykes"
+      ],
+      "ore_minerals": [
+        "gold",
+        "arsenopyrite",
+        "pyrrhotite",
+        "pyrite"
+      ],
+      "alteration": "hydrothermal alteration"
+    }
+  },
+  {
+    "page_number": 25,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "Greywacke",
+        "Siltstone"
+      ],
+      "minerals": [],
+      "structures": [
+        "slump folds",
+        "fluid-escape facies structures"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 26,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "carbonate host rock"
+      ],
+      "minerals": [
+        "sulphide",
+        "quartz",
+        "calcite"
+      ],
+      "structures": [
+        "slump folds",
+        "soft sediment deformation",
+        "veins"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "DFE3-046-005",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [
+        "carbonate host rock"
+      ],
+      "ore_minerals": [
+        "sulphide"
+      ],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 27,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "mudstone",
+        "siltstone"
+      ],
+      "minerals": [
+        "pyrite"
+      ],
+      "structures": [
+        "fluid escape structures"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "SDFE3-007-017",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 28,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "siltstone",
+        "greywacke"
+      ],
+      "minerals": [],
+      "structures": [
+        "slumps",
+        "glide surface",
+        "glide zone",
+        "olistoliths",
+        "slump folds",
+        "turbidite beds",
+        "erosion surfaces",
+        "fining beds"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 29,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "granodiorite"
+      ],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "195",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [
+        "granodiorite"
+      ],
+      "ore_minerals": [],
+      "alteration": "Sericite alteration"
+    }
+  },
+  {
+    "page_number": 30,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "granodiorite",
+        "breccia"
+      ],
+      "minerals": [
+        "sericite",
+        "feldspar",
+        "iron-oxide"
+      ],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "195",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": "sericite replacing the feldspars"
+    }
+  },
+  {
+    "page_number": 31,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "greywacke",
+        "marble"
+      ],
+      "minerals": [
+        "quartz",
+        "microcline",
+        "calcite"
+      ],
+      "structures": [
+        "stylolite",
+        "micro-stylolites"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "DFE3-046-006",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "SDFE3-007-018",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 32,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [
+        "palaeochannel",
+        "unconformity"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 33,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 34,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 35,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 36,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 37,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Country Clare, Ireland; Alexander Island, Antarctica",
+      "formation": "",
+      "rock_types": [
+        "siltstone-greywacke"
+      ],
+      "minerals": [],
+      "structures": [
+        "slumps",
+        "folds",
+        "boudins",
+        "micro-faults"
+      ],
+      "tectonic_setting": "continental margin"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 38,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "siltstone",
+        "greywacke",
+        "mudstone"
+      ],
+      "minerals": [],
+      "structures": [
+        "olistoliths",
+        "olistostrome",
+        "injection dykes",
+        "fluid escape structures"
+      ],
+      "tectonic_setting": "continental margin"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 39,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "greywacke",
+        "siltstone",
+        "mudstone",
+        "marble"
+      ],
+      "minerals": [
+        "pyrite",
+        "pyrrhotite",
+        "gypsum"
+      ],
+      "structures": [
+        "slump facies",
+        "vein network",
+        "dykes"
+      ],
+      "tectonic_setting": "continental margin"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [
+        "marble"
+      ],
+      "ore_minerals": [
+        "pyrrhotite"
+      ],
+      "alteration": "recrystallization"
+    }
+  },
+  {
+    "page_number": 40,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "West African craton",
+      "formation": "Birimian",
+      "rock_types": [
+        "tholeiitic basalts",
+        "andesitic volcanic",
+        "calc-alkaline volcanics",
+        "volcaniclastic sediments",
+        "detrital sediments",
+        "chemical sediments",
+        "granodiorite"
+      ],
+      "minerals": [
+        "gold",
+        "arsenopyrite"
+      ],
+      "structures": [
+        "breccia",
+        "quartz-arsenopyrite veins"
+      ],
+      "tectonic_setting": "oceanic island arc"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 2238.0,
+      "error_Ma": 0,
+      "rock_unit": "Birimian sequences",
+      "evidence": "interpreted as Birimian in age"
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "gold bearing",
+      "associated_structures": [
+        "breccia",
+        "quartz-arsenopyrite veins"
+      ],
+      "host_rocks": [
+        "granodiorite"
+      ],
+      "ore_minerals": [
+        "gold",
+        "arsenopyrite"
+      ],
+      "alteration": "deuteric alteration and sericitisation"
+    }
+  },
+  {
+    "page_number": 41,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "Kéniéba Inlier",
+      "formation": "",
+      "rock_types": [
+        "granodiorite",
+        "breccias",
+        "siltstone-greywacke",
+        "greywacke",
+        "laterite"
+      ],
+      "minerals": [
+        "gold"
+      ],
+      "structures": [
+        "palaeochannels",
+        "shear"
+      ],
+      "tectonic_setting": "Eburnean Orogeny"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 2.12,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": "Two major magmatic events at 2.16-2.11 Ga and at 2.08-2.07 Ga"
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "placer gold mineralisation",
+      "associated_structures": [
+        "palaeochannels"
+      ],
+      "host_rocks": [
+        "breccias",
+        "siltstone-greywacke",
+        "greywacke"
+      ],
+      "ore_minerals": [
+        "gold"
+      ],
+      "alteration": "contact metamorphism"
+    }
+  },
+  {
+    "page_number": 42,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "Siltstone"
+      ],
+      "minerals": [
+        "Quartz"
+      ],
+      "structures": [
+        "Injection dykes"
+      ],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": "Chlorite-sericite alteration"
+    }
+  },
+  {
+    "page_number": 43,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "West African Craton",
+      "formation": "",
+      "rock_types": [],
+      "minerals": [],
+      "structures": [],
+      "tectonic_setting": ""
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "",
+      "associated_structures": [],
+      "host_rocks": [],
+      "ore_minerals": [],
+      "alteration": ""
+    }
+  },
+  {
+    "page_number": 44,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "year": 0,
+      "supervisor": "",
+      "institution": "",
+      "location": ""
+    },
+    "geology": {
+      "region": "",
+      "formation": "",
+      "rock_types": [
+        "siltstone",
+        "greywacke",
+        "mudstone",
+        "granodiorite"
+      ],
+      "minerals": [
+        "arsenopyrite",
+        "pyrite",
+        "gold"
+      ],
+      "structures": [
+        "glide surfaces",
+        "slump folds",
+        "chaotic bedding",
+        "floating clast",
+        "olistoliths",
+        "turbidites",
+        "seismites",
+        "fluid escape structures"
+      ],
+      "tectonic_setting": "continental margin"
+    },
+    "geochronology": {
+      "sample_id": "",
+      "method": "",
+      "age_Ma": 0,
+      "error_Ma": 0,
+      "rock_unit": "",
+      "evidence": ""
+    },
+    "geochemistry": {
+      "sample_id": "",
+      "analyte": "",
+      "value": 0,
+      "unit": "",
+      "method": "",
+      "context": ""
+    },
+    "metallogeny": {
+      "mineralisation_type": "primary hydrothermal and secondary placer",
+      "associated_structures": [],
+      "host_rocks": [
+        "breccia lodes",
+        "upper slump facies"
+      ],
+      "ore_minerals": [
+        "arsenopyrite",
+        "pyrite",
+        "gold"
+      ],
+      "alteration": "deuterically altered and sericitised"
+    }
+  }
+]

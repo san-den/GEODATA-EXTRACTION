@@ -1,0 +1,277 @@
+﻿pdf_name,section,field,value,pages
+2008_MATABANE_FE3.pdf,metadata,title,"THE GEOLOGY OF THE FE3 OPEN-CAST, SADIOLA, MALI: STRATIGRAPHY, STRUCTURE AND INTRUSIVE ROCKS",1
+2008_MATABANE_FE3.pdf,metadata,author,Moshala Matabane,1
+2008_MATABANE_FE3.pdf,metadata,year,2008,"1, 2"
+2008_MATABANE_FE3.pdf,metadata,supervisor,Prof. Kim A.A. Hein,1
+2008_MATABANE_FE3.pdf,metadata,institution,"University of the Witwatersrand, Johannesburg",1
+2008_MATABANE_FE3.pdf,metadata,location,Johannesburg,"1, 2"
+2008_MATABANE_FE3.pdf,geology,region,"Sadiola, Mali",1
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,0,"1, 11, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 42, 43, 44, 5, 6, 7, 8, 9"
+2008_MATABANE_FE3.pdf,geochronology,error_Ma,0,"1, 11, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 5, 6, 7, 8, 9"
+2008_MATABANE_FE3.pdf,geochemistry,value,0,"1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 5, 6, 7, 8, 9"
+2008_MATABANE_FE3.pdf,metadata,institution,University of the Witwatersrand,2
+2008_MATABANE_FE3.pdf,metadata,year,0,"10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 5, 6, 7, 8, 9"
+2008_MATABANE_FE3.pdf,metadata,supervisor,Prof. Kim Hein,3
+2008_MATABANE_FE3.pdf,metadata,location,"Sadiola goldfield, Mali",4
+2008_MATABANE_FE3.pdf,geology,region,"Sadiola goldfield, Mali","4, 7"
+2008_MATABANE_FE3.pdf,geology,rock_types,meta-sedimentary rocks,4
+2008_MATABANE_FE3.pdf,geology,rock_types,granodiorite,"20, 22, 23, 24, 29, 30, 4, 40, 41, 44"
+2008_MATABANE_FE3.pdf,geology,minerals,gold,"11, 13, 14, 20, 24, 4, 40, 41, 44"
+2008_MATABANE_FE3.pdf,geology,minerals,chlorite,"21, 4"
+2008_MATABANE_FE3.pdf,geology,minerals,sericite,"21, 22, 23, 30, 4"
+2008_MATABANE_FE3.pdf,geology,minerals,arsenopyrite,"14, 20, 23, 24, 4, 40, 44"
+2008_MATABANE_FE3.pdf,geology,structures,slump folds,"20, 21, 25, 26, 28, 4, 44"
+2008_MATABANE_FE3.pdf,geology,structures,olistoliths,"28, 38, 4, 44"
+2008_MATABANE_FE3.pdf,geology,structures,turbidite beds,"21, 28, 4"
+2008_MATABANE_FE3.pdf,geology,structures,fluid escape structures,"27, 38, 4, 44"
+2008_MATABANE_FE3.pdf,geology,tectonic_setting,seismically-active turbulent environment,4
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,primary hydrothermal and secondary placer,"4, 44"
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,breccia zones,"24, 4"
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,quartz-arsenopyrite veins,"4, 40"
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,lower slump facies,4
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,upper slump facies,"20, 4, 44"
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,siltstone-greywacke unit,4
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,gold,"11, 13, 14, 23, 24, 4, 40, 41, 44"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,hydrothermal chlorite-sericite alteration,4
+2008_MATABANE_FE3.pdf,geology,region,Mali,8
+2008_MATABANE_FE3.pdf,geology,structures,facies successions,8
+2008_MATABANE_FE3.pdf,geology,structures,intrusive bodies,8
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,gold,"22, 8"
+2008_MATABANE_FE3.pdf,metadata,location,Mali,10
+2008_MATABANE_FE3.pdf,geology,region,Kéniéba Inlier,"10, 11, 12, 17, 41"
+2008_MATABANE_FE3.pdf,geology,rock_types,tholeiitic basalts,"10, 40"
+2008_MATABANE_FE3.pdf,geology,rock_types,andesites,10
+2008_MATABANE_FE3.pdf,geology,rock_types,granitoids,"10, 12"
+2008_MATABANE_FE3.pdf,geology,rock_types,volcanic sequences,10
+2008_MATABANE_FE3.pdf,geology,rock_types,sedimentary sequences,10
+2008_MATABANE_FE3.pdf,geology,rock_types,amphibolite,"10, 11"
+2008_MATABANE_FE3.pdf,geology,rock_types,gneiss,10
+2008_MATABANE_FE3.pdf,geology,structures,Senegalo-Malian graben,10
+2008_MATABANE_FE3.pdf,geology,structures,Senegalo-Mali Shear Zone,"10, 11"
+2008_MATABANE_FE3.pdf,geology,tectonic_setting,Eburnean Orogeny,"10, 12, 14, 41"
+2008_MATABANE_FE3.pdf,geochronology,method,Pb-Pb age,10
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,2194,10
+2008_MATABANE_FE3.pdf,geochronology,error_Ma,6,10
+2008_MATABANE_FE3.pdf,geochronology,rock_unit,SAG basement,10
+2008_MATABANE_FE3.pdf,geology,formation,Mako Supergroup,11
+2008_MATABANE_FE3.pdf,geology,rock_types,tholeiitic pillowed basalt,11
+2008_MATABANE_FE3.pdf,geology,rock_types,calc-alkaline andesite,11
+2008_MATABANE_FE3.pdf,geology,rock_types,immature metasedimentary rocks,11
+2008_MATABANE_FE3.pdf,geology,rock_types,meta-volcaniclastic rocks,11
+2008_MATABANE_FE3.pdf,geology,rock_types,diorite,"11, 12"
+2008_MATABANE_FE3.pdf,geology,rock_types,tonalite,"11, 12"
+2008_MATABANE_FE3.pdf,geology,rock_types,carbonate,"11, 21"
+2008_MATABANE_FE3.pdf,geology,rock_types,volcaniclastic,11
+2008_MATABANE_FE3.pdf,geology,rock_types,siliciclastic,11
+2008_MATABANE_FE3.pdf,geology,rock_types,turbiditic units,11
+2008_MATABANE_FE3.pdf,geology,rock_types,andesite lavas,11
+2008_MATABANE_FE3.pdf,geology,rock_types,rhyolitic pyroclastites,11
+2008_MATABANE_FE3.pdf,geology,rock_types,andesite,11
+2008_MATABANE_FE3.pdf,geology,rock_types,felsic lava,11
+2008_MATABANE_FE3.pdf,geology,rock_types,volcaniclastic units,11
+2008_MATABANE_FE3.pdf,geology,rock_types,chemical sediments,"11, 15, 40"
+2008_MATABANE_FE3.pdf,geology,rock_types,chert,11
+2008_MATABANE_FE3.pdf,geology,rock_types,manganiferous shale,11
+2008_MATABANE_FE3.pdf,geology,rock_types,metagreywacke,11
+2008_MATABANE_FE3.pdf,geology,rock_types,Birimian-type basin sediments,11
+2008_MATABANE_FE3.pdf,geology,rock_types,orogenic-type metasediments,11
+2008_MATABANE_FE3.pdf,geology,minerals,tourmaline,"11, 13"
+2008_MATABANE_FE3.pdf,geology,structures,skarn-type iron deposits,11
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,gold mineralisation,"11, 20"
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,tourmaline-rich quartz veins,11
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,Kofi Series,11
+2008_MATABANE_FE3.pdf,geology,formation,Birimian sequences,12
+2008_MATABANE_FE3.pdf,geology,rock_types,werhlite,12
+2008_MATABANE_FE3.pdf,geology,rock_types,pyroxenite,12
+2008_MATABANE_FE3.pdf,geology,rock_types,gabbro,12
+2008_MATABANE_FE3.pdf,geology,rock_types,granite,"12, 13"
+2008_MATABANE_FE3.pdf,geology,rock_types,monzogranite,12
+2008_MATABANE_FE3.pdf,geology,minerals,biotite,"12, 22, 23"
+2008_MATABANE_FE3.pdf,geology,minerals,staurolite,12
+2008_MATABANE_FE3.pdf,geology,minerals,sillimanite,12
+2008_MATABANE_FE3.pdf,geology,minerals,garnet,12
+2008_MATABANE_FE3.pdf,geology,structures,strike-slip shear zones,12
+2008_MATABANE_FE3.pdf,geology,structures,Senegalo-Malian Shear Zone,12
+2008_MATABANE_FE3.pdf,geology,structures,Main Transcurrent Zone,12
+2008_MATABANE_FE3.pdf,geochronology,method,Rb-Sr whole rock,12
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,2199.0,12
+2008_MATABANE_FE3.pdf,geochronology,error_Ma,68.0,12
+2008_MATABANE_FE3.pdf,geochronology,rock_unit,Badon-Kakadian batholith,12
+2008_MATABANE_FE3.pdf,metadata,year,1991,13
+2008_MATABANE_FE3.pdf,geology,region,West Africa,13
+2008_MATABANE_FE3.pdf,geology,formation,Lower Birimian,13
+2008_MATABANE_FE3.pdf,geology,rock_types,clastic sediments,13
+2008_MATABANE_FE3.pdf,geology,rock_types,tholeiitic lavas,13
+2008_MATABANE_FE3.pdf,geology,structures,sinistral strike-slip shear zones,13
+2008_MATABANE_FE3.pdf,geology,structures,thrust faults,13
+2008_MATABANE_FE3.pdf,geology,tectonic_setting,extensional and compressional phases,13
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,50,13
+2008_MATABANE_FE3.pdf,geochronology,evidence,evidence of sinistral strike-slip faults in the oldest intrusions of the Kéniéba Inlier,13
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,primary gold deposits,13
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,extensional zones,13
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,strike-slip faults,13
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,Lower Birimian sequences,13
+2008_MATABANE_FE3.pdf,metallogeny,alteration,tourmalinised,13
+2008_MATABANE_FE3.pdf,geology,region,"Burkina Faso, Ghana, Mali, Ivory Coast, Guinea, Senegal",14
+2008_MATABANE_FE3.pdf,geology,rock_types,volcanic rocks,14
+2008_MATABANE_FE3.pdf,geology,rock_types,plutonic rocks,14
+2008_MATABANE_FE3.pdf,geology,rock_types,conglomerate beds,14
+2008_MATABANE_FE3.pdf,geology,minerals,poly-metallic sulphides,14
+2008_MATABANE_FE3.pdf,geology,minerals,native gold,14
+2008_MATABANE_FE3.pdf,geology,minerals,quartz,"14, 21, 22, 23, 26, 31"
+2008_MATABANE_FE3.pdf,geology,structures,brecciated hydrothermal zones,14
+2008_MATABANE_FE3.pdf,geology,structures,NE-trending tectonic corridors,14
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,mesothermal gold mineralisation,14
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,discordant mesothermal mineralization,14
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,volcanic rocks,14
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,plutonic rocks,14
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,conglomerate beds,14
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,arsenopyrite,"14, 20, 23, 24, 40, 44"
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,poly-metallic sulphides,14
+2008_MATABANE_FE3.pdf,geology,rock_types,metasediments,15
+2008_MATABANE_FE3.pdf,geology,rock_types,volcaniclastic sequences,15
+2008_MATABANE_FE3.pdf,geology,rock_types,volcanoclastics,15
+2008_MATABANE_FE3.pdf,geology,rock_types,detrital sediments,"15, 40"
+2008_MATABANE_FE3.pdf,geology,rock_types,calc-alkaline volcanics,"15, 40"
+2008_MATABANE_FE3.pdf,geology,rock_types,tholeiitic pillowed basalts,15
+2008_MATABANE_FE3.pdf,geology,rock_types,alkaline andesites,15
+2008_MATABANE_FE3.pdf,geology,rock_types,immature basalts,15
+2008_MATABANE_FE3.pdf,geology,rock_types,amphibolite gneiss,15
+2008_MATABANE_FE3.pdf,geology,region,West African craton,"16, 40"
+2008_MATABANE_FE3.pdf,geology,structures,transcurrent fault,18
+2008_MATABANE_FE3.pdf,geology,structures,reverse fault,18
+2008_MATABANE_FE3.pdf,geology,structures,trace of stratification,18
+2008_MATABANE_FE3.pdf,geology,structures,trace of schistosity 1,18
+2008_MATABANE_FE3.pdf,geology,structures,trace of schistosity 2,18
+2008_MATABANE_FE3.pdf,geology,structures,planar fabric in the granites,18
+2008_MATABANE_FE3.pdf,geology,structures,stretching lineation,18
+2008_MATABANE_FE3.pdf,geology,structures,linear fabric in the granites,18
+2008_MATABANE_FE3.pdf,geology,structures,scour and fill,19
+2008_MATABANE_FE3.pdf,geology,structures,cross-bedding,19
+2008_MATABANE_FE3.pdf,geology,structures,turbidite sequences,"19, 20"
+2008_MATABANE_FE3.pdf,geology,rock_types,siltstone,"20, 21, 22, 23, 27, 28, 38, 39, 44"
+2008_MATABANE_FE3.pdf,geology,rock_types,greywacke,"20, 21, 22, 23, 28, 31, 38, 39, 41, 44"
+2008_MATABANE_FE3.pdf,geology,rock_types,mudstone,"20, 21, 27, 38, 39, 44"
+2008_MATABANE_FE3.pdf,geology,minerals,pyrite,"20, 24, 27, 39, 44"
+2008_MATABANE_FE3.pdf,geology,minerals,calcite,"20, 22, 23, 24, 26, 31"
+2008_MATABANE_FE3.pdf,geology,structures,breccia,"20, 40"
+2008_MATABANE_FE3.pdf,geology,structures,cataclasite,"20, 22"
+2008_MATABANE_FE3.pdf,geology,structures,glide surfaces,"20, 21, 44"
+2008_MATABANE_FE3.pdf,geology,structures,chaotic folding,20
+2008_MATABANE_FE3.pdf,geology,structures,detached units,20
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,breccia lodes,"20, 44"
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,pyrite,"20, 24, 44"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,contact metamorphic aureole,20
+2008_MATABANE_FE3.pdf,geology,rock_types,quartz,21
+2008_MATABANE_FE3.pdf,geology,minerals,graphite,21
+2008_MATABANE_FE3.pdf,geology,minerals,iron,21
+2008_MATABANE_FE3.pdf,geology,structures,cross bedding,21
+2008_MATABANE_FE3.pdf,geology,structures,cleavage,21
+2008_MATABANE_FE3.pdf,geology,minerals,goethite,22
+2008_MATABANE_FE3.pdf,geology,minerals,hematite,22
+2008_MATABANE_FE3.pdf,geology,minerals,microcline,"22, 23, 31"
+2008_MATABANE_FE3.pdf,geology,minerals,orthoclase,"22, 23"
+2008_MATABANE_FE3.pdf,geology,minerals,plagioclase,"22, 23"
+2008_MATABANE_FE3.pdf,geology,structures,brecciation,22
+2008_MATABANE_FE3.pdf,geology,structures,faults,22
+2008_MATABANE_FE3.pdf,geology,structures,fault breccias,22
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,brecciation,22
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,faults,22
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,granodiorite,"22, 23, 29, 40"
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,siltstone,22
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,greywacke,"22, 23, 41"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,"sericitic alteration, deuteric alteration",22
+2008_MATABANE_FE3.pdf,geology,rock_types,quartzites,23
+2008_MATABANE_FE3.pdf,geology,rock_types,marble,"23, 31, 39"
+2008_MATABANE_FE3.pdf,geology,rock_types,breccias,"23, 41"
+2008_MATABANE_FE3.pdf,geology,minerals,scorodite,23
+2008_MATABANE_FE3.pdf,geology,structures,stylolitic micro-textures,23
+2008_MATABANE_FE3.pdf,geology,structures,granoblastic quartz grains,23
+2008_MATABANE_FE3.pdf,geology,structures,quartz veins,23
+2008_MATABANE_FE3.pdf,geology,structures,sulphide-rich micro-veins,23
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,"Primary hydrothermal mineralisation, Secondary placer gold mineralisation",23
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,marble,"23, 39"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,scorodite,23
+2008_MATABANE_FE3.pdf,geology,rock_types,breccia,"24, 30"
+2008_MATABANE_FE3.pdf,geology,rock_types,turbidite,24
+2008_MATABANE_FE3.pdf,geology,minerals,pyrrhotite,"24, 39"
+2008_MATABANE_FE3.pdf,geology,minerals,iron oxide,24
+2008_MATABANE_FE3.pdf,geology,structures,palaeochannels,"24, 41"
+2008_MATABANE_FE3.pdf,geology,structures,joints,24
+2008_MATABANE_FE3.pdf,geology,structures,fractures,24
+2008_MATABANE_FE3.pdf,geology,structures,structural breccias,24
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,primary and secondary gold mineralisation,24
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,lower slump facies,24
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,palaeochannels,"24, 41"
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,turbidite sequences,24
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,granodiorite dykes,24
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,pyrrhotite,"24, 39"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,hydrothermal alteration,24
+2008_MATABANE_FE3.pdf,geology,rock_types,Greywacke,25
+2008_MATABANE_FE3.pdf,geology,rock_types,Siltstone,"25, 42"
+2008_MATABANE_FE3.pdf,geology,structures,fluid-escape facies structures,25
+2008_MATABANE_FE3.pdf,geology,rock_types,carbonate host rock,26
+2008_MATABANE_FE3.pdf,geology,minerals,sulphide,26
+2008_MATABANE_FE3.pdf,geology,structures,soft sediment deformation,26
+2008_MATABANE_FE3.pdf,geology,structures,veins,26
+2008_MATABANE_FE3.pdf,geochronology,sample_id,DFE3-046-005,26
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,carbonate host rock,26
+2008_MATABANE_FE3.pdf,metallogeny,ore_minerals,sulphide,26
+2008_MATABANE_FE3.pdf,geochronology,sample_id,SDFE3-007-017,27
+2008_MATABANE_FE3.pdf,geology,structures,slumps,"28, 37"
+2008_MATABANE_FE3.pdf,geology,structures,glide surface,28
+2008_MATABANE_FE3.pdf,geology,structures,glide zone,28
+2008_MATABANE_FE3.pdf,geology,structures,erosion surfaces,28
+2008_MATABANE_FE3.pdf,geology,structures,fining beds,28
+2008_MATABANE_FE3.pdf,geochronology,sample_id,195,"29, 30"
+2008_MATABANE_FE3.pdf,metallogeny,alteration,Sericite alteration,29
+2008_MATABANE_FE3.pdf,geology,minerals,feldspar,30
+2008_MATABANE_FE3.pdf,geology,minerals,iron-oxide,30
+2008_MATABANE_FE3.pdf,metallogeny,alteration,sericite replacing the feldspars,30
+2008_MATABANE_FE3.pdf,geology,structures,stylolite,31
+2008_MATABANE_FE3.pdf,geology,structures,micro-stylolites,31
+2008_MATABANE_FE3.pdf,geochronology,sample_id,DFE3-046-006,31
+2008_MATABANE_FE3.pdf,geochemistry,sample_id,SDFE3-007-018,31
+2008_MATABANE_FE3.pdf,geology,structures,palaeochannel,32
+2008_MATABANE_FE3.pdf,geology,structures,unconformity,32
+2008_MATABANE_FE3.pdf,geology,region,"Country Clare, Ireland; Alexander Island, Antarctica",37
+2008_MATABANE_FE3.pdf,geology,rock_types,siltstone-greywacke,"37, 41"
+2008_MATABANE_FE3.pdf,geology,structures,folds,37
+2008_MATABANE_FE3.pdf,geology,structures,boudins,37
+2008_MATABANE_FE3.pdf,geology,structures,micro-faults,37
+2008_MATABANE_FE3.pdf,geology,tectonic_setting,continental margin,"37, 38, 39, 44"
+2008_MATABANE_FE3.pdf,geology,structures,olistostrome,38
+2008_MATABANE_FE3.pdf,geology,structures,injection dykes,38
+2008_MATABANE_FE3.pdf,geology,minerals,gypsum,39
+2008_MATABANE_FE3.pdf,geology,structures,slump facies,39
+2008_MATABANE_FE3.pdf,geology,structures,vein network,39
+2008_MATABANE_FE3.pdf,geology,structures,dykes,39
+2008_MATABANE_FE3.pdf,metallogeny,alteration,recrystallization,39
+2008_MATABANE_FE3.pdf,geology,formation,Birimian,40
+2008_MATABANE_FE3.pdf,geology,rock_types,andesitic volcanic,40
+2008_MATABANE_FE3.pdf,geology,rock_types,volcaniclastic sediments,40
+2008_MATABANE_FE3.pdf,geology,structures,quartz-arsenopyrite veins,40
+2008_MATABANE_FE3.pdf,geology,tectonic_setting,oceanic island arc,40
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,2238.0,40
+2008_MATABANE_FE3.pdf,geochronology,rock_unit,Birimian sequences,40
+2008_MATABANE_FE3.pdf,geochronology,evidence,interpreted as Birimian in age,40
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,gold bearing,40
+2008_MATABANE_FE3.pdf,metallogeny,associated_structures,breccia,40
+2008_MATABANE_FE3.pdf,metallogeny,alteration,deuteric alteration and sericitisation,40
+2008_MATABANE_FE3.pdf,geology,rock_types,laterite,41
+2008_MATABANE_FE3.pdf,geology,structures,shear,41
+2008_MATABANE_FE3.pdf,geochronology,age_Ma,2.12,41
+2008_MATABANE_FE3.pdf,geochronology,evidence,Two major magmatic events at 2.16-2.11 Ga and at 2.08-2.07 Ga,41
+2008_MATABANE_FE3.pdf,metallogeny,mineralisation_type,placer gold mineralisation,41
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,breccias,41
+2008_MATABANE_FE3.pdf,metallogeny,host_rocks,siltstone-greywacke,41
+2008_MATABANE_FE3.pdf,metallogeny,alteration,contact metamorphism,41
+2008_MATABANE_FE3.pdf,geology,minerals,Quartz,42
+2008_MATABANE_FE3.pdf,geology,structures,Injection dykes,42
+2008_MATABANE_FE3.pdf,metallogeny,alteration,Chlorite-sericite alteration,42
+2008_MATABANE_FE3.pdf,geology,region,West African Craton,43
+2008_MATABANE_FE3.pdf,geology,structures,chaotic bedding,44
+2008_MATABANE_FE3.pdf,geology,structures,floating clast,44
+2008_MATABANE_FE3.pdf,geology,structures,turbidites,44
+2008_MATABANE_FE3.pdf,geology,structures,seismites,44
+2008_MATABANE_FE3.pdf,metallogeny,alteration,deuterically altered and sericitised,44

@@ -56,14 +56,6 @@ This project extracts **structured geology data** (no coordinates) from thesis P
 
 ---
 
-## Optional extras
-- **Doc-level metadata pass** (pages 1–3) to attach `title/author/year/institution` to all page records.
-- **Age normalization** (Ga → Ma) after Stage 3 (heuristic: if 1–10 and “Ga” on page, ×1000).
-- **Flattening & DW/Graph export** (dim/fact), preserving `pdf_name` and `page_number` as provenance keys.
-- **Gold-set evaluation**: 5–10 labeled pages per PDF to compute P/R/F1.
-
----
-
 ## Trade-offs & mitigations
 - **Cost/latency:** API calls per page → keep temperature low, cap page text length, and cache results.
 - **Determinism:** Not 100%; mitigate with low temperature, fixed model version, and schema validators.

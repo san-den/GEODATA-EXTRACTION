@@ -10,12 +10,12 @@ Extract **structured geology data** (no coordinates) from thesis PDFs into **pag
 
 ## Approaches in this repo
 
-### Final (default): Schema-first, page-aware LLM
+### Final : Schema-first, page-aware LLM
 - Clean text **one page at a time** (no global re-split), stop at **References**.
 - LLM returns **strict JSON** per page (fixed schema: metadata, geology, geochronology, geochemistry, metallogeny).
 - Post-steps: **unit normalization** (e.g., Ga→Ma), **dedup**, optional CSV export.
 
-### Earlier variant (kept): Hybrid **regex + LLM**
+### Earlier variant : Hybrid **regex + LLM**
 - **Regex/dictionary pass** finds likely facts (ages, assays, methods, rock terms) per page.
 - Only those **candidate snippets** go to the LLM, which **validates & structures** them into the **same schema**.
 - Helpful for table-heavy PDFs and for **token/cost control**.
